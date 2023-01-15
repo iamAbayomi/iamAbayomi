@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Front-End Developer developing user-facing applications with React.js and Vue.js I have 4 years of experience developing applications. I have worked individually as the lead developer and collaborated with teams on various projects.
 
-If you need to build a web application. You can reach me at 📫 contact@oladiniabayomi.com
+If you need to build a web application. You can reach me at 📫 Oladinifolawiyo@gmail.com
 
 <!--
 **iamAbayomi/iamAbayomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
